@@ -1,4 +1,4 @@
-# Node.js MySQL REST API
+# Node.js MySQL REST API for Smart Parking System using RFID Technology
 
 A REST API built with Node.js and MySQL for creating, reading, updating and deleting data.
 
